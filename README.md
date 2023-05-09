@@ -1,3 +1,4 @@
 # WatchDM
-WatchDM score model deployment
-The app shows results of the WatchDM score using random survival model
+WatchDM score model deployment.
+
+The app computes WatchDM score using random survival model.
